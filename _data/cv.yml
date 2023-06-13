@@ -124,7 +124,7 @@
 - title: Awards, Memberships, Activites
   type: time_table
   contents:
-    - title: Early Career Representative for International Commission on Polar Meteorology (ICPM)
+    - description: Early Career Representative for International Commission on Polar Meteorology (ICPM)
       year: 2021 - present
       #description:
         #- <u>Project:</u> nextGEMS | Next Generation Earth Modelling Systems
