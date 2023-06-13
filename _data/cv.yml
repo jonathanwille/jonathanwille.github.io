@@ -15,7 +15,7 @@
       institution: Université Grenoble Alpes, Grenoble, France
       year: 2021
       description:
-        - <u>Degree</u> Sciences del a terre et de l’univers et de l’environnement
+        - <u>Degree:</u> Sciences del a terre et de l’univers et de l’environnement
         - Thesis title:Sciences del a terre et de l’univers et de l’environnement  
         - Advisor:Vincent Favier
         - Summer School:Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla
@@ -108,5 +108,5 @@
 - title: Other Interests
   type: list
   contents:
-   # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
