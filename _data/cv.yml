@@ -111,36 +111,37 @@
         - Atmospheric rivers
         - Extreme weather ice-sheet impacts
         - Subtropical - polar teleconnections
-        - Ice-Sheet Dynamics
-        - Ice-Sheet Dynamics
-        - Ice-Sheet Dynamics        
-    - title: Topic 2.
+        - Ice-Core palaeoclimatology     
+    - title: High-resolution climate modeling 
       items:
-        - Description 1.
-        - Description 2.
+        - Extreme weather event depictions  
+        - Future flooding and drought changes
+        - Societal impacts of climate change
 
-- title: Honors and Awards
+
+
+        
+- title: Awards, Memberships, Activites
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Early Career Representative for International Commission on Polar Meteorology (ICPM)
+      year: 2021 - present
+      #description:
+        #- <u>Project:</u> nextGEMS | Next Generation Earth Modelling Systems
+        #- <u>Advisor:</u> Erich Fischer
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
 - title: Other Interests
   type: list
