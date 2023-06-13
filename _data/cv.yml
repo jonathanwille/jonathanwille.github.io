@@ -2,25 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jonathan D. Wille
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30th May 1991
     - name: Languages
-      value: English, German
+      value: English, French (B1)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Université Grenoble Alpes, Grenoble, France
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Degree: "Sciences del a terre et de l’univers et de l’environnement"
+        - Thesis title: "Antarctic Atmospheric River Climatology and Impacts"  
+        - Advisor: "Vincent Favier"
+        - Summer School: "Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla"
+    - title: M.Sc
+      institution: The Ohio State University, Columbus, Ohio, U.S.A.
+      year: 2015
+        - Degree: "Atmospheric Science"
+        - Thesis title: "Antarctic Atmospheric River Climatology and Impacts"  
+        - Advisor: "Vincent Favier"
+        - Summer School: "Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla"
+    - title: B.Sc
+      institution: The University of Oklahoma, Norman, Oklahoma, U.S.A.
+      year: 2013
+      description:
+        - Major: Meteorology
+        - Minor: Environmental Sustainability
+        - Study Aboard: The University of Reading, Reading, United Kingdom, 2012
+          #contents:
+            #- Sub-description 1.
+           # - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
