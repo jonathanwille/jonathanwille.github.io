@@ -15,12 +15,13 @@
       institution: Université Grenoble Alpes, Grenoble, France
       year: 2021
       description:
-        - Diploma:/ Sciences del a terre et de l’univers et de l’environnement 
-        - Advisor:/ Vincent Favier
-        - Summer School:/ Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Degree:Sciences del a terre et de l’univers et de l’environnement
+        - Thesis title:Sciences del a terre et de l’univers et de l’environnement  
+        - Advisor:Vincent Favier
+        - Summer School:Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla
+    - title: M.Sc
+      institution: The Ohio State University, Columbus, Ohio, U.S.A.
+      year: 2015
       description:
         - Description 1.
         - Description 2.
@@ -107,4 +108,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Hobbies:/ Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
