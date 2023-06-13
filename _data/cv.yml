@@ -24,19 +24,24 @@
       year: 2015
       description:
         - <u>Degree:</u> Atmospheric Science
-        - <u>Thesis title:</u> Analysis of the AMPS-Polar WRF Boundary Layer at the Alexander Tall           
-Tower site on the Ross Ice Shelf    
+        - <u>Thesis title:</u> Antarctic Atmospheric River Climatology and Impacts    
         - <u>Advisor:</u> David H. Bromwich
     - title: B.Sc
       institution: The University of Oklahoma, Norman, Oklahoma, U.S.A.
       year: 2013
       description:
-        - <u>Major:</u> Meteorology
-        - <u>Minor:</u> Environmental Sustainability
-        - <u>Study Aboard:</u> The University of Reading, Reading, United Kingdom, 2012
+        - Major: Meteorology
+        - Minor: Environmental Sustainability
+        - Study Aboard: The University of Reading, Reading, United Kingdom, 2012
           #contents:
             #- Sub-description 1.
            # - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
@@ -104,5 +109,5 @@ Tower site on the Ross Ice Shelf
 - title: Other Interests
   type: list
   contents:
-    - <>Hobbies:</> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
