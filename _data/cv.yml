@@ -2,47 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value: Jonathan D. Wille
+      value: Albert Einstein
     - name: Date of Birth
-      value: 30th May 1991
+      value: 14th March 1879
     - name: Languages
-      value: English, French (B1)
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Université Grenoble Alpes, Grenoble, France
-      year: 2021
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Degree: Sciences del a terre et de l’univers et de l’environnement
-        - Thesis title: Antarctic Atmospheric River Climatology and Impacts  
-        - Advisor: Vincent Favier
-        - Summer School: "Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla"
-    - title: M.Sc
-      institution: The Ohio State University, Columbus, Ohio, U.S.A.
-      year: 2015
-        - Degree: "Atmospheric Science"
-        - Thesis title: "Analysis of the AMPS-Polar WRF Boundary Layer at the Alexander Tall           
-Tower! site on the Ross Ice Shelf"  
-        - Advisor: "David H. Bromwich"
-    - title: B.Sc
-      institution: The University of Oklahoma, Norman, Oklahoma, U.S.A.
-      year: 2013
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Major: Meteorology
-        - Minor: Environmental Sustainability
-        - Study Aboard: The University of Reading, Reading, United Kingdom, 2012
-          #contents:
-            #- Sub-description 1.
-           # - Sub-description 2.
-
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral Researcher
-      institution: Institute für Atmosphäre und Klima, ETH Zürich, Zürich, Switzerland
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
       description:
         - Description 1.
