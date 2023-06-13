@@ -124,11 +124,27 @@
 - title: Awards, Memberships, Activites
   type: time_table
   contents:
-    - description: Early Career Representative for International Commission on Polar Meteorology (ICPM)
+    - title: Honourable mention for Early-Career Award of the International Association of Cryospheric Sciences (IACS)
+      year: 2023
+      description:
+        - In regard for paper 'Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula'   
+    - title: Coordinator for the Antarctic Atmospheric River Workshop for Institut des Géosciences de l’Environnement  
+      year: 2022 
+    - title: Early Career Representative for International Commission on Polar Meteorology (ICPM)
       year: 2021 - present
-      #description:
-        #- <u>Project:</u> nextGEMS | Next Generation Earth Modelling Systems
+      description:
+        - Social media manager
         #- <u>Advisor:</u> Erich Fischer
+    - title: Year of Polar Prediction – Southern Hemisphere (YOPP-SH) Task Team 
+      year: 2021 - 2022
+      description:
+        - Coordinating Australian, French, and Italian Targeted Observing Periods
+    - title: High School Outreach Volunteer for Byrd Polar and Climate Research Center 
+      year: 2017
+    - title: Conference Coordinator for Polar Weather and Climate Week at Byrd Polar and Climate Research Center  
+      year: 2017  
+    - title: Organization Committee Chair for the OSU Geography Graduate Organization’s Student Research Day  
+      year: 2015
 
 
 #- title: Academic Interests
