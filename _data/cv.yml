@@ -15,16 +15,17 @@
       institution: Université Grenoble Alpes, Grenoble, France
       year: 2021
       description:
-        - Degree: "Sciences del a terre et de l’univers et de l’environnement"
-        - Thesis title: "Sciences del a terre et de l’univers et de l’environnement"  
+        - Degree: Sciences del a terre et de l’univers et de l’environnement
+        - Thesis title: "Antarctic Atmospheric River Climatology and Impacts"  
         - Advisor: "Vincent Favier"
         - Summer School: "Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla"
     - title: M.Sc
       institution: The Ohio State University, Columbus, Ohio, U.S.A.
       year: 2015
-      description:
-        - Description 1.
-        - Description 2.
+        - Degree: "Atmospheric Science"
+        - Thesis title: "Analysis of the AMPS-Polar WRF Boundary Layer at the Alexander Tall           
+Tower! site on the Ross Ice Shelf"  
+        - Advisor: "David H. Bromwich"
     - title: B.Sc
       institution: The University of Oklahoma, Norman, Oklahoma, U.S.A.
       year: 2013
