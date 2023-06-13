@@ -23,8 +23,9 @@
       institution: The Ohio State University, Columbus, Ohio, U.S.A.
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - <u>Degree:</u> Atmospheric Science
+        - <u>Thesis title:</u> Antarctic Atmospheric River Climatology and Impacts    
+        - <u>Advisor:</u> David H. Bromwich
     - title: B.Sc
       institution: The University of Oklahoma, Norman, Oklahoma, U.S.A.
       year: 2013
