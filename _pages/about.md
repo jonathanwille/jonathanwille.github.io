@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[ETH Zurich](https://iac.ethz.ch/people-iac/person-detail.html?persid=308693)</a>
+subtitle: <a href='#'>ETH Zurich</a>
 
 profile:
   align: right
