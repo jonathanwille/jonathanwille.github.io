@@ -20,8 +20,8 @@
         - <u>Advisor:</u> Vincent Favier
         - <u>Summer School:</u> Atmospheric Rivers Colloquium Summer School, Scripps Research, La Jolla
         - <u>Field Campaign:</u> Dumont d'Urville, Antarctica
-          contents:
-            - Snow measurements and weather station repairs 
+          #contents:
+            #- Snow measurements and weather station repairs 
     - title: M.Sc
       institution: The Ohio State University, Columbus, Ohio, U.S.A.
       year: 2015
