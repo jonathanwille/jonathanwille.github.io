@@ -103,6 +103,22 @@
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Polar atmospheric science
+      items: 
+        - Atmospheric rivers
+        - Extreme weather ice-sheet impacts
+        - Subtropical - polar teleconnections
+        - Ice-Sheet Dynamics
+        - Ice-Sheet Dynamics
+        - Ice-Sheet Dynamics        
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
 - title: Honors and Awards
   type: time_table
   contents:
