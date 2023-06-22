@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher @ ETH Zurich</a>
+subtitle: <a href='#'>Postdoctoral researcher: ETH Zurich</a>
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
     <p>CHN N 18</p>
     <p>Universitätstrasse 16</p>
-    <p>8092 Zürich Switzerland</p>
+    <p>8092 Zürich, Switzerland</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
