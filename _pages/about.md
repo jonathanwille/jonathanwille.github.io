@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher: ETH Zurich</a>
+subtitle: <a href='#'>Postdoctoral researcher @ ETH Zurich</a>
 
 profile:
   align: right
@@ -19,8 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is some random text. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! My name is Dr. Jonathan D. Wille and I’m a Meteorologist with a board focus on extreme weather events and impacts. Prior to my current position here at ETH Zurich, I researched extreme weather impacts on the Antarctic ice sheet primarily through examining polar atmospheric river behavior and impacts. I liked to study the full life-cycle of these extreme events from their large-scale dynamical origins and tropical teleconnections through their final impacts on the Antarctic ice sheet in regard to surface mass balance, ice-shelf stability, and paleoclimate implications. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Now I’m taking a similar philosophy with my current research by studying the simulation of mid-latitude extreme precipitation and drought from the latest generation storm-resolving global climate models within the nextGEMS project. With two next-generation convection-permitting Earth-system models, the goal is to see whether the proper resolution of tropical convection influences the teleconnection with the mid-latitude jet stream. My work is to first research how extreme precipitation events are resolved and then see how they might change in the next 30 years in response to changes in jet dynamics. Outside of research, you’ll often find me making amateur weather forecasts for my friends and then annoying them with random weather facts. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
