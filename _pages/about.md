@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher: ETH Zurich</a>
+subtitle: <a href='#'>Postdoctoral researcher @ ETH Zurich</a>
 
 profile:
   align: right
