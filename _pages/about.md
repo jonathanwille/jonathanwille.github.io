@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher @ Institut des Géosciences de l'Environnement, Grenoble, France</a>
+subtitle: <a href='#'>Postdoctoral researcher @ Biogéosciences, Université Bourgogne Europe, Dijon, France</a>
 
 profile:
   align: right
