@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher @ CNRS/Biogéosciences, Dijon, France</a>
+subtitle: <a href='#'>Postdoctoral researcher @ CNRS/Biogéosciences, Université Bourgogne Europe, Dijon, France</a>
 
 profile:
   align: right
