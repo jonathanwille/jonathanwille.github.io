@@ -44,9 +44,30 @@
 - title: Experience
   type: time_table
   contents:
+  
+    - title: Postdoctoral Researcher
+      institution: CNRS/Biogéosciences, Université Bourgogne Europe, Dijon, France
+      year: 2026 - present
+      description:
+        - <u>Project:</u> MAADE | Modeling Antarctic Atmospheric Dynamic Extremes 
+        - <u>Funder:</u> Marie Skłodowska-Curie Actions Postdoctoral Fellowship | Awarded 
+        - <u>Advisor:</u> Benjamin Pohl
+          #contents:
+           # - Sub-description 1.
+            #- Sub-description 2.
+    - title: Postdoctoral Researcher
+      institution: Institut des Géosciences de l’Environnement, Grenoble, France
+      year: 2025 - 2026
+      description:
+        - <u>Project:</u> AIPARD | Artificial intelligence for polar atmospheric rivers 
+        - <u>Funder:</u> Make Our Planet Great Again Fellowship | Awarded 
+        - <u>Advisor:</u> Jordi Bolibar 
+          #contents:
+           # - Sub-description 1.
+            #- Sub-description 2.
     - title: Postdoctoral Researcher
       institution: Institute für Atmosphäre und Klima, ETH Zürich, Zürich, Switzerland
-      year: 2022 - present
+      year: 2022 - 2025
       description:
         - <u>Project:</u> nextGEMS | Next Generation Earth Modelling Systems
         - <u>Advisor:</u> Erich Fischer
